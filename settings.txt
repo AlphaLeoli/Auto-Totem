@@ -1,0 +1,2 @@
+totem_keybind=f
+equit_totem_bind=e
